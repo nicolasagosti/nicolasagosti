@@ -6,7 +6,10 @@
 ## Sobre mi
 
 -💻💻 Web Developer 💻💻
+<br>
 -📚 Formacion 📚
+<br>
     🔵Ingenieria en Sistemas - Universidad Tecnologica Nacional (En Curso).
+<br>
     🔵Full-Stack Developer.
 <br>
