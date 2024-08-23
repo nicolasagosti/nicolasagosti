@@ -5,7 +5,7 @@
 
 ## Sobre mi
 
--💻💻 Web Developer 💻💻
+-💻💻 Full-Stack 💻💻
 <br>
 -📚 Formacion 📚
 <br>
